@@ -1,3 +1,28 @@
-.nav {
+body {
+    font-family: Mont;
+}
+
+.border {
+    border-style: solid;
+    border-width: 2px;
+    text-align: center
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.blueTitle {
+    background-color: #11346F;
+    color: #FFFFFF;
+    height: 30px;
+}
+
+.blueText {
+    display: flex;
+    justify-content: center;
+    top: 4px;
+    padding: 6px;
 
 }
